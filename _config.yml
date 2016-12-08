@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Gems
+gems: [jekyll-paginate, jekyll-gist]
+
+# Setup
+title:            Mark Smith
+#tagline:          'Quant Developer'
+#description:      'Quant Developer'
+#url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Smith'
+#  url:            https://twitter.com/akaSmittyTweets
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  username:       markalansmith
+  repo:           https://github.com/markalansmith
+
+linkedin:
+  username:       markalansmith
+
