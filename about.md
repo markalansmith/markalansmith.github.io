@@ -3,8 +3,9 @@ layout: page
 title: About
 ---
 
-Hey, I'm Mark,
+I'm Mark,
 
-A Quant Developer working in Chicago @ Akuna Capital
+A Quant Developer working in Chicago @ <a href="http://www.akunacapital.com">Akuna Capital</a>
+
 
 Thanks for reading!
