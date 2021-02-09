@@ -9,3 +9,4 @@ A Quant Developer working in Chicago @ <a href="http://www.akunacapital.com">Aku
 
 
 Thanks for reading!
+
