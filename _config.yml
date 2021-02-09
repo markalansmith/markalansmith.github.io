@@ -14,7 +14,7 @@ title:            Mark Smith
 #tagline:          'Quant Developer'
 description:      ''
 #url:              http://hyde.getpoole.com
-baseurl:          /
+#baseurl:          /
 
 author:
   name:           'Mark Smith'
