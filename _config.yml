@@ -12,7 +12,7 @@ gems: [jekyll-paginate, jekyll-gist]
 # Setup
 title:            Mark Smith
 #tagline:          'Quant Developer'
-#description:      'Quant Developer'
+description:      ''
 #url:              http://hyde.getpoole.com
 baseurl:          /
 
