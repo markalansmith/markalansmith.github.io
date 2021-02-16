@@ -22,7 +22,7 @@ In order to answer these questions we need to define what it means for a game to
 
 ![]({{ "/" | relative_url }}public/images/nba_excitement/gei_formula.png?raw=true)
 
-In words, this metric is measuring how much the Home teams win probability changes over the course of the game. Games with many lead changes, or dramatic changes in Win Probabilities, should naturally result in an exciting game. Additionally, we want to normalize for the length of the game, so we account
+In words, this metric is measuring how much the Home teams win probability changes over the course of the game. Games with many lead changes, or dramatic changes in Win Probabilities, should naturally result in an exciting game. Additionally, we want to normalize for the length of the game, so we normalize to a standard game length.
 
 Given the formula above, we need to obtain Win Probabilities in order to calculate this 'Game Excitment Index'.
 
